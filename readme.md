@@ -11,11 +11,17 @@ Libraries Used
 PHP
 -----
 php[0-9]+.[0-9]+-cli 
+
 php[0-9]+.[0-9]+-fpm 
-php[0-9]+.[0-9]+-curl 
+
+php[0-9]+.[0-9]+-curl
+
 php[0-9]+.[0-9]+-gd 
+
 php[0-9]+.[0-9]+-mysql 
+
 php[0-9]+.[0-9]+-mbstring
+
 
 MYSQL
 -----
