@@ -26,6 +26,7 @@ php[0-9]+.[0-9]+-mbstring
 MYSQL
 -----
 mysql-server 
+
 mysql-client
 
 NINGX
@@ -35,6 +36,7 @@ ningx
 ZIP & UNZIP
 -----------
 zip
+
 unzip
 
 WORDPRESS
